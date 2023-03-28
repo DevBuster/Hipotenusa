@@ -9,8 +9,7 @@ public class Main {
 
         // VARIABLE BANDERA PARA CONTROLAR EL DO WHILE DE MODIFICAR CATETOS
         int estado_actualizacion = 0;
-
-        // VARIABLE BANDERA PARA CONTROLAR EL DO WHILE DE MODIFICAR CATETOS
+        
         boolean continuar = false;
 
         do {
